@@ -8,7 +8,6 @@ import { Z64OnlineEvents } from './OotoAPI';
 import { IZ64Main } from 'Z64Lib/API/Common/IZ64Main';
 import { LinkState, Z64Events } from 'Z64Lib/API/Common/Z64API';
 import { Z64RomTools } from 'Z64Lib/API/Utilities/Z64RomTools';
-import { Command } from 'Z64Lib/API/imports';
 import { Z64LibSupportedGames } from 'Z64Lib/API/Utilities/Z64LibSupportedGames';
 
 class zzdata {
